@@ -1,0 +1,37 @@
+{
+  "blogs": 
+  [
+    {
+      "id": 1,
+      "content": "Good software, like fine wine, takes time!!",
+      "title": "Blog 1",
+      "author": "Vercel",
+      "createdOn": "2023-01-27",
+      "titleImage": "<img>/<url>/<here>.jpg"
+    },
+    {
+      "id": 2,
+      "content": "A blog is a website or page that is a part of a larger website. Typically, it features articles written in a conversational style with accompanying pictures or videos.",
+      "title": "Blog 2",
+      "author": "Vercel",
+      "createdOn": "2023-01-26",
+      "titleImage": "<img>/<url>/<here1>.jpg"
+    },
+    {
+      "id": 3,
+      "content": "Blogging is a fun and flexible way for self-expression and social connection, so it is no wonder blogs have become very popular. In addition, people can start blogging to improve their writing skills or even promote their businesses.",
+      "title": "Blog 3",
+      "author": "Vercel",
+      "createdOn": "2023-01-24",
+      "titleImage": "<img>/<url>/<here2>.jpg"
+    },
+    {
+      "id": 4,
+      "content": "Furthermore, a professional blogger can even make money from blogging in various ways, such as Google ads and Amazon affiliate links. Profitable blogs can be of any topic. Think of any subject, and there is probably already a successful blog about it",
+      "title": "Blog 4",
+      "author": "Vercel",
+      "createdOn": "2023-01-27",
+      "titleImage": "<img>/<url>/<here>.jpg"
+    }
+  ]
+}
