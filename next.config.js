@@ -32,7 +32,23 @@ const nextConfig = {
       })
     )
     return config
-  }
+  },
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'storage.crm.sg.content-cdn.io',
+        port: '',
+        pathname: '/cdn-cgi/image/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'storage.crm.eu.content-cdn.io',
+        port: '',
+        pathname: '/cdn-cgi/image/**',
+      },
+    ],
+  },
 }
 
 module.exports = nextConfig

@@ -7,7 +7,7 @@
       "title": "Blog 1",
       "author": "Vercel",
       "createdOn": "2023-01-27",
-      "titleImage": "<img>/<url>/<here>.jpg"
+      "titleImage": "https://storage.crm.sg.content-cdn.io/cdn-cgi/image/format=auto,quality=60,height=150,width=150/fs.capillary.sg/intouch_creative_assets/f5881b56-45b8-4c71-93d2-ca256fd5.jpg"
     },
     {
       "id": 2,
@@ -15,7 +15,7 @@
       "title": "Blog 2",
       "author": "Vercel",
       "createdOn": "2023-01-26",
-      "titleImage": "<img>/<url>/<here1>.jpg"
+      "titleImage": "https://storage.crm.eu.content-cdn.io/cdn-cgi/image/format=auto,quality=60,height=150,width=150/fs.capillary.eu/intouch_creative_assets/5f1c63d0-5317-460f-befe-92b31777.jpg"
     },
     {
       "id": 3,
@@ -23,7 +23,7 @@
       "title": "Blog 3",
       "author": "Vercel",
       "createdOn": "2023-01-24",
-      "titleImage": "<img>/<url>/<here2>.jpg"
+      "titleImage": "https://storage.crm.eu.content-cdn.io/cdn-cgi/image/format=auto,quality=60,height=150,width=150/fs.capillary.eu/intouch_creative_assets/5f1c63d0-5317-460f-befe-92b31777.jpg"
     },
     {
       "id": 4,
@@ -31,7 +31,7 @@
       "title": "Blog 4",
       "author": "Vercel",
       "createdOn": "2023-01-27",
-      "titleImage": "<img>/<url>/<here>.jpg"
+      "titleImage": "https://storage.crm.sg.content-cdn.io/cdn-cgi/image/format=auto,quality=60,height=150,width=150/fs.capillary.sg/intouch_creative_assets/f5881b56-45b8-4c71-93d2-ca256fd5.jpg"
     }
   ]
 }

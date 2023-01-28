@@ -5,6 +5,7 @@ import { useState, useEffect } from 'react'
 import BlogList from '../../src/components/BlogList'
 import { getBlogList } from '../../src/helpers/api'
 import { type_blog } from '../../src/helpers/types'
+import Navigation from '../../src/components/Navigation'
 
 export default function BlogPage() {
   const emptyBlogsList: type_blog[] = []
@@ -21,10 +22,7 @@ export default function BlogPage() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
-        </h1>
-
+        <Navigation></Navigation>
         <BlogList blogList={blogList}/>
       </main>
 
@@ -34,10 +32,10 @@ export default function BlogPage() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
-          <span className={styles.logo}>
+          Powered by Capillary UI
+          {/* <span className={styles.logo}>
             <Image src="/assets/vercel.svg" alt="Vercel Logo" width={72} height={16} />
-          </span>
+          </span> */}
         </a>
       </footer>
     </div>
